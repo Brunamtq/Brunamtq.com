@@ -1,4 +1,4 @@
-baseurl: https://brunamtq.github.io/project/
+baseurl: "https://brunamtq.github.io/project/"
 languageCode: en-us
 theme: hugo-theme-terminal
 paginate: 5

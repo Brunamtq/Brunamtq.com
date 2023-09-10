@@ -14,12 +14,12 @@ languages:
     keywords: ''
     menu:
       main:
-        - identifier: about
-          name: About
-          url: /about
-        - identifier: showcase
-          name: Showcase
-          url: /showcase
+        - identifier: sobre
+          name: Sobre
+          url: /sobre
+        - identifier: índice
+          name: Índice
+          url: /índice
     menuMore: Show more
     params:
       logo:

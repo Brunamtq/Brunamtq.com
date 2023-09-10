@@ -7,7 +7,7 @@ params:
   contentTypeName: posts
   fullWidthTheme: no
   showMenuItems: 2
-  themeColor: orange
+  themeColor: pink
 languages:
   en:
     copyright: ''

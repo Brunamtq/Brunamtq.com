@@ -1,22 +1,9 @@
 ---
-author: Radek
-date: "2019-01-25"
-title: About
+author: Bruna Barreto
+date: "2023-09-10"
+title: Biografia
 ---
 
-# Hi there
+# Olá
 
-My name is Radek and I'm the author of this theme. I made it to help you present your ideas easier.
-
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-
-The theme includes:
-
-- **5 duotone themes**, depending on your preferences (orange, red, blue, green, pink)
-- [**Fira Code**](https://github.com/tonsky/FiraCode) as default monospaced font. It's gorgeous!
-- **really nice, custom duotone** syntax highlighting based on [**PrismJS**](https://prismjs.com)
-- mobile friendly layout
-
-So, there you have it... enjoy!
+Sou estudante de graduação do terceiro ano em Ciência da Dados na Universidade Federal do Ceará, meus princiapis tópicos de interessão são em estatística aplicada e machine learning.
